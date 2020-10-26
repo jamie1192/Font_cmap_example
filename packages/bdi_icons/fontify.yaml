@@ -1,0 +1,15 @@
+fontify:
+  input_svg_dir: "assets/svg/"
+  output_font_file: "assets/fonts/bdi_icons.otf"
+
+  output_class_file: "lib/src/bdi_icons.dart"
+  class_name: "BdiIcons"
+  indent: 4
+  package: bdi_icons
+
+  font_name: "BdiIcons"
+  normalize: true
+  ignore_shapes: false
+
+  recursive: true
+  verbose: false
